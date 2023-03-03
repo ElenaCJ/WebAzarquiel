@@ -1,0 +1,185 @@
+{
+  "src/images/fondo-videjuegos.jpg": {
+    "file": "_app/immutable/assets/fondo-videjuegos-dd244a6c.jpg",
+    "src": "src/images/fondo-videjuegos.jpg"
+  },
+  "src/images/fondo-videojuegos_no.jpg": {
+    "file": "_app/immutable/assets/fondo-videojuegos_no-5d2953e6.jpg",
+    "src": "src/images/fondo-videojuegos_no.jpg"
+  },
+  "src/images/fondo-ciber_noact.jpg": {
+    "file": "_app/immutable/assets/fondo-ciber_noact-c59a1372.jpg",
+    "src": "src/images/fondo-ciber_noact.jpg"
+  },
+  "src/images/fondo-ciber.jpg": {
+    "file": "_app/immutable/assets/fondo-ciber-00643e17.jpg",
+    "src": "src/images/fondo-ciber.jpg"
+  },
+  "src/routes/+layout.css": {
+    "file": "_app/immutable/assets/_layout-385e4683.css",
+    "src": "src/routes/+layout.css"
+  },
+  "accesotable.css": {
+    "file": "_app/immutable/assets/accesotable-8a4a3f76.css",
+    "src": "accesotable.css"
+  },
+  "src/routes/ciberseguridad/+page.css": {
+    "file": "_app/immutable/assets/_page-ae7fe3f4.css",
+    "src": "src/routes/ciberseguridad/+page.css"
+  },
+  "src/routes/videojuegos/+page.css": {
+    "file": "_app/immutable/assets/_page-70679bba.css",
+    "src": "src/routes/videojuegos/+page.css"
+  },
+  "src/routes/+page.css": {
+    "file": "_app/immutable/assets/_page-0ca59ff9.css",
+    "src": "src/routes/+page.css"
+  },
+  "src/routes/+layout.js": {
+    "file": "_app/immutable/modules/pages/_layout.js-9cbb603b.js",
+    "src": "src/routes/+layout.js",
+    "isEntry": true,
+    "imports": [
+      "__layout-da46b06b.js"
+    ]
+  },
+  ".svelte-kit/generated/nodes/3.js": {
+    "file": "_app/immutable/chunks/3-55f5f429.js",
+    "src": ".svelte-kit/generated/nodes/3.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/ciberseguridad/+page.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/0.js": {
+    "file": "_app/immutable/chunks/0-139d3327.js",
+    "src": ".svelte-kit/generated/nodes/0.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "__layout-da46b06b.js",
+      "src/routes/+layout.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/4.js": {
+    "file": "_app/immutable/chunks/4-30638a3d.js",
+    "src": ".svelte-kit/generated/nodes/4.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/videojuegos/+page.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/1.js": {
+    "file": "_app/immutable/chunks/1-85d6e818.js",
+    "src": ".svelte-kit/generated/nodes/1.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/@sveltejs/kit/src/runtime/components/error.svelte"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
+    "file": "_app/immutable/components/error.svelte-c110b2e0.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-72e6b6f3.js",
+      "_singletons-c5a61a67.js"
+    ]
+  },
+  ".svelte-kit/generated/nodes/2.js": {
+    "file": "_app/immutable/chunks/2-b4e8141c.js",
+    "src": ".svelte-kit/generated/nodes/2.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/+page.svelte"
+    ]
+  },
+  "_singletons-c5a61a67.js": {
+    "file": "_app/immutable/chunks/singletons-c5a61a67.js",
+    "imports": [
+      "_index-72e6b6f3.js"
+    ]
+  },
+  "__layout-da46b06b.js": {
+    "file": "_app/immutable/chunks/_layout-da46b06b.js"
+  },
+  "_index-72e6b6f3.js": {
+    "file": "_app/immutable/chunks/index-72e6b6f3.js"
+  },
+  "src/routes/+layout.svelte": {
+    "file": "_app/immutable/components/pages/_layout.svelte-56e9b21e.js",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-72e6b6f3.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout-385e4683.css"
+    ]
+  },
+  "src/routes/ciberseguridad/+page.svelte": {
+    "file": "_app/immutable/components/pages/ciberseguridad/_page.svelte-a74639ab.js",
+    "src": "src/routes/ciberseguridad/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-72e6b6f3.js",
+      "_accesotable-f34c245e.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-ae7fe3f4.css"
+    ]
+  },
+  "_accesotable-f34c245e.js": {
+    "file": "_app/immutable/chunks/accesotable-f34c245e.js",
+    "imports": [
+      "_index-72e6b6f3.js"
+    ],
+    "css": [
+      "_app/immutable/assets/accesotable-8a4a3f76.css"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "_app/immutable/components/pages/_page.svelte-10355162.js",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-72e6b6f3.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-0ca59ff9.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/fondo-ciber_noact-c59a1372.jpg",
+      "_app/immutable/assets/fondo-videojuegos_no-5d2953e6.jpg",
+      "_app/immutable/assets/fondo-ciber-00643e17.jpg",
+      "_app/immutable/assets/fondo-videjuegos-dd244a6c.jpg"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
+    "file": "_app/immutable/start-f0f46f17.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-72e6b6f3.js",
+      "_singletons-c5a61a67.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/nodes/0.js",
+      ".svelte-kit/generated/nodes/1.js",
+      ".svelte-kit/generated/nodes/2.js",
+      ".svelte-kit/generated/nodes/3.js",
+      ".svelte-kit/generated/nodes/4.js"
+    ]
+  },
+  "src/routes/videojuegos/+page.svelte": {
+    "file": "_app/immutable/components/pages/videojuegos/_page.svelte-eefaeb6e.js",
+    "src": "src/routes/videojuegos/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-72e6b6f3.js",
+      "_accesotable-f34c245e.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-70679bba.css"
+    ]
+  }
+}
