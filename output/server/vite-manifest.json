@@ -1,0 +1,102 @@
+{
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_server-internal.js"
+    ]
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout-6fed2988.css"
+    ]
+  },
+  "src/routes/+layout.js": {
+    "file": "entries/pages/_layout.js",
+    "src": "src/routes/+layout.js",
+    "isEntry": true
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-42c536b5.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/fondo-ciber_noact-c59a1372.jpg",
+      "_app/immutable/assets/fondo-videojuegos_no-5d2953e6.jpg",
+      "_app/immutable/assets/fondo-ciber-00643e17.jpg",
+      "_app/immutable/assets/fondo-videjuegos-dd244a6c.jpg"
+    ]
+  },
+  "src/routes/ciberseguridad/+page.svelte": {
+    "file": "entries/pages/ciberseguridad/_page.svelte.js",
+    "src": "src/routes/ciberseguridad/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_accesotable.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-bb0cf9d6.css"
+    ]
+  },
+  "src/routes/videojuegos/+page.svelte": {
+    "file": "entries/pages/videojuegos/_page.svelte.js",
+    "src": "src/routes/videojuegos/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_accesotable.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-c90b2b80.css"
+    ]
+  },
+  ".svelte-kit/generated/server-internal.js": {
+    "file": "internal.js",
+    "src": ".svelte-kit/generated/server-internal.js",
+    "isEntry": true,
+    "imports": [
+      "_server-internal.js"
+    ]
+  },
+  "_index.js": {
+    "file": "chunks/index.js"
+  },
+  "_server-internal.js": {
+    "file": "chunks/server-internal.js",
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "_accesotable.js": {
+    "file": "chunks/accesotable.js",
+    "imports": [
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/accesotable-433a576f.css"
+    ]
+  }
+}
